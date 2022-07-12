@@ -1,0 +1,7 @@
+Pour compiler le programme .s, il faut lancer la commande 
+	py ./compiler <File.s>
+	ou
+	python3 compiler.py <File.s>
+Le fichier bin du programme se trouvera dans le fichier nommé binary du même repertoire.
+
+Voilà !!! 

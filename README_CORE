@@ -1,0 +1,7 @@
+1. Pour compiler le code et generer la documentation doxygen saisir les commandes suivantes dans le terminal :
+make all
+
+2. Pour excecuter le programme, saisissez la commande suivantes:
+./prog <CODE> <STATE> (VERBOSE)
+
+Voila !!!
